@@ -46,7 +46,7 @@ That's why I'm asking everyone to **donate a little bit of money** in order to d
   <summary>Click to expand</summary>
 
 > If you consider using this website, make sure to credit me!
-> Example: `Bot Coded by [NN] Bosu#3182](https://discord.gg/49BFrMhys5) but modified by [modifier/your Name](https://discord.gg/)`
+> Example: `Website Coded by [NN] Bosu#3182](https://discord.gg/49BFrMhys5) but modified by [modifier/your Name](https://discord.gg/)`
 </details>
 
 # Contributing
