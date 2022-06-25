@@ -48,6 +48,7 @@ That's why I'm asking everyone to **donate a little bit of money** in order to d
 > If you consider using this website, make sure to credit me!
 > Example: `Bot Coded by [NN] Bosu#3182](https://discord.gg/49BFrMhys5) but modified by [modifier/your Name](https://discord.gg/)`
 </details>
+
 # Contributing
 
 > If you want to help improve the website code, fix spelling or design Errors or if possible even code errors, you may create PULL REQUESTS.
