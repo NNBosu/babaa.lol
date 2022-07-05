@@ -38,7 +38,6 @@ That's why I'm asking everyone to **donate a little bit of money** in order to d
 [⚡ᴅʀᴇᴀᴍ ᴄᴏᴍᴍᴜɴɪᴛʏ](https://discord.gg/49BFrMhys5)
 | [⚡kwayservices](https://discord.gg/49BFrMhys5)
 | [⚡Steam Report Bot & medal boosting™](https://discord.gg/sHnfeBK9WF)
-| [⚡DECΩDERS™](https://discord.gg/3mhb4XNYw2)
 </details>
 
 # 📚Credits
